@@ -1,0 +1,11 @@
+Forward 0.5 m
+Left 90°
+Forward 0.5 m
+Left 90°
+Forward 0.5 m
+Right 90°
+Forward 0.5 m
+Right 90°
+Forward 0.5 m
+Turn 180°
+Reverse 0.5 m
